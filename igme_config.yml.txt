@@ -1,0 +1,17 @@
+title: How to Align Memory
+author:
+  name: Luna Meier
+  email: lunalovecraft@gmail.com
+  github: https://github.com/LunaLovecraft
+description: A tutorial on how to create aligned memory in C++, using declspec(align()), _aligned_malloc(), and aligning memory from scratch.
+language: C++
+image:
+  icon: https://cloud.githubusercontent.com/assets/10502938/13506660/28be0300-e14d-11e5-90e3-b194f14e52bd.PNG
+  banner: https://cloud.githubusercontent.com/assets/10502938/13506660/28be0300-e14d-11e5-90e3-b194f14e52bd.PNG
+tags:
+  - C++
+  - Optimization
+extra_resources:
+  - https://msdn.microsoft.com/library/83ythb65.aspx
+  - https://msdn.microsoft.com/en-us/library/8z34s9c6.aspx
+connections:
